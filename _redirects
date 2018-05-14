@@ -1,0 +1,4 @@
+# redirects for Netlify - https://www.netlify.com/docs/redirects/
+/gsuite/  https://www.google.com/a/mchimports.com/  302
+/email/  https://mail.google.com/mail/#inbox  302
+/domains/  https://www.uniregistry.com/  302
